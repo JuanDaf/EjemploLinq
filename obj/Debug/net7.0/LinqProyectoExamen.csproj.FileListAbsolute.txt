@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\LinqProyectoExamen\bin\Debug\net7.0\LinqProyectoExamen.exe
+C:\Users\Usuario\Desktop\LinqProyectoExamen\bin\Debug\net7.0\LinqProyectoExamen.deps.json
+C:\Users\Usuario\Desktop\LinqProyectoExamen\bin\Debug\net7.0\LinqProyectoExamen.runtimeconfig.json
+C:\Users\Usuario\Desktop\LinqProyectoExamen\bin\Debug\net7.0\LinqProyectoExamen.dll
+C:\Users\Usuario\Desktop\LinqProyectoExamen\bin\Debug\net7.0\LinqProyectoExamen.pdb
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.dll
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\refint\LinqProyectoExamen.dll
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.pdb
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\LinqProyectoExamen.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\LinqProyectoExamen\obj\Debug\net7.0\ref\LinqProyectoExamen.dll
