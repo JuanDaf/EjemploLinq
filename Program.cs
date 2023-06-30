@@ -2,11 +2,11 @@
 
 LinqQuery lq =  new LinqQuery();
 
-//PrintPersons(lq.OnlyFristLetterLastName('A'));
+PrintPersons(lq.OnlyFristLetterLastName('A'));
 
-//PrintPersons(lq.SelectColorEye("Green"));
+PrintPersons(lq.SelectColorEye("Green"));
 
-//PrintEyeColors(lq.GroupXColors());
+PrintEyeColors(lq.GroupXColors());
 
 PrintEmailsValue(lq.DiccionarioDeLibrosXLetter(),'t');
 
