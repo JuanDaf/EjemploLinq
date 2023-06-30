@@ -13,5 +13,12 @@ public class LinqQuery{
         return ColecccionPersonas.Where(p => p.last_name[0].Equals(letter)).Take(50);
     }
 
+    public IEnumerable<Personas> SelectColorEye(string letter){
+        return ColecccionPersonas.Where(p => p.eye_color.Equals(letter)).OrderBy(p=> p.first_name);
+    }
+
+    public IEnumerable<IGrouping<string,Personas>> GroupXColors(){
+        return ColecccionPersonas.GroupBy(p => p.eye_color).Take(10);
+    }
 
 }
