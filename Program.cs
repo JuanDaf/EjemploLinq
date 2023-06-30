@@ -2,7 +2,7 @@
 
 LinqQuery lq =  new LinqQuery();
 
-ImprimirPersonas(lq.OnlyFristWordLastName());
+ImprimirPersonas(lq.OnlyFristLetterLastName('A'));
 
 
 void ImprimirPersonas(IEnumerable<Personas> personas){

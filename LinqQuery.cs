@@ -9,8 +9,8 @@ public class LinqQuery{
         }
     }
 
-    public IEnumerable<Personas> OnlyFristWordLastName(){
-        return ColecccionPersonas.Where(p => p.last_name[0].Equals('A')).Take(50);
+    public IEnumerable<Personas> OnlyFristLetterLastName(char letter){
+        return ColecccionPersonas.Where(p => p.last_name[0].Equals(letter)).Take(50);
     }
 
 
